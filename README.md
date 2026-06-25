@@ -80,7 +80,7 @@ O |   | X
   |   | X
 ```
 
-And you return `5` (playing as `X`), you will place your counter in the middle right square, resulting in:
+And you return `4` (playing as `X`), you will place your counter in the middle right square, resulting in:
 
 ```
 O |   |
